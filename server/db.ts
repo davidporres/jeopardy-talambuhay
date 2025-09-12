@@ -47,9 +47,9 @@ const presentQuestions: Question[] =
         },
         {
             points: 300,
-            question: 'present for 300',
-            imgSrc: '/programming_language.png',
-            answer: 'idk',
+            question: 'What breed of dog is this?',
+            imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3QUm-_7o2AalyWZNNsJESi-BCAPjUmuCU0g&s",
+            answer: 'Maltipoo',
         },
         {
             points: 400,
