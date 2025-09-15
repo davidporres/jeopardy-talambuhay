@@ -34,9 +34,9 @@ const presentQuestions: Question[] =
         {
             points: 100,
             question:
-                'present for 100',
-            imgSrc: 'https://madera.objects.liquidweb.services/photos/16842-half-dome-closeup-from-glacier-point-steve-montalto-hmi-Rectangle-600x400.jpg',
-            answer: 'idk',
+                'What flag is this?',
+            imgSrc: 'https://www.rjtravelagency.com/wp-content/uploads/2024/06/Flag-of-Italy.jpg',
+            answer: 'Italy',
         },
         {
             points: 200,
