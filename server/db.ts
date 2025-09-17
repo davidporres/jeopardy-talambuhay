@@ -24,8 +24,9 @@ const pastQuestions: Question[] = sortQuestions([
     },
     {
         points: 400,
-        question: 'past for 400',
-        answer: 'idk',
+        question: 'Where do these birds live?',
+        imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDUHAGZEBVQbthZhmOPbCGm9Y-T_EiJAzK7w&s",
+        answer: 'Galapagos',
     }
 ]);
 
