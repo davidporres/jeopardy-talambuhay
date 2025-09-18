@@ -7,7 +7,7 @@ const pastQuestions: Question[] = sortQuestions([
     {
         points: 100,
         question: 'What famous museum is on the Upper West Side?',
-        answer: 'Natural History Museum',
+        answer: 'The Natural History Museum',
     },
     {
         points: 200,
@@ -86,9 +86,9 @@ const futureQuestions: Question[] = sortQuestions([
      {
         points: 400,
         question:
-            'future for 400',
+            'What do I want to do with my life?',
         //imgSrc: "https://lh3.googleusercontent.com/p/AF1QipNsmB0ugJeJxYVrBKpRkNkyiEa6cKLamFZ4r0M=s1360-w1360-h1020",
-        answer: 'idk',
+        answer: "I don't know",
      },
 ]);
 
