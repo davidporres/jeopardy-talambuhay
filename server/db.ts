@@ -19,8 +19,9 @@ const pastQuestions: Question[] = sortQuestions([
     {
         points: 300,
         question:
-            'past for 300',
-        answer: 'idk',
+            'What is this place?',
+            imgSrc: "https://www.chelseapiers.com/cpny/cache/file/0A17A274-2219-2737-80F883734A789A09_carouselimage.jpg",
+        answer: 'Chelsea Piers',
     },
     {
         points: 400,
