@@ -12,9 +12,8 @@ const pastQuestions: Question[] = sortQuestions([
     {
         points: 200,
         question:
-            'past for 200',
-        imgSrc: "https://cdn.britannica.com/34/4034-050-91EE1BCF/Flag-Myanmar.jpg",
-        answer: 'idk',
+            "What's the best Cartoon Network show?",
+        answer: 'Teen Titans Go',
     },
     {
         points: 300,
